@@ -8,7 +8,17 @@ h1 {
   font-weight: normal;
   font-style: normal; }
 
-body {
-  background: #eee; }
+table {
+  border-collapse: collapse; }
+
+td,
+th {
+  border: 1px solid black;
+  padding: 3px;
+  text-align: center; }
+
+th {
+  font-weight: bold;
+  background-color: #e6e6e6; }
 
 /*# sourceMappingURL=main.css.map */
